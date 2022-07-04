@@ -1,3 +1,9 @@
+#hz file
+.idea
+.gitignore
+target
+maven-deploy.iml
+
 # Compiled class file
 *.class
 
